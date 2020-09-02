@@ -1,1 +1,20 @@
-
+body {background-color: red;}
+p{color:wheat;}
+p{font-family: sans-serif;}
+p{font-size: 27;}
+img {border-radius: 50%;}
+.program{font-family: fantasy;}
+.program{font-size: 72;}
+.program{color:aliceblue;}
+.program{border-color: aqua;}
+body {font-family:inherit;}
+#ComputerScience {background-color: deepskyblue;}
+#ComputerScience{color: white;}
+#StudioArt {background-color:brown;}
+#Mathematics{background-image: url(../../math.jpg);}
+#Mathematics{color: yellow;}
+#Politics {background-color:slateblue;}
+#Politics {color: aqua;}
+#Economics{background-image: url(../../eco.jpg);}
+#Economics{color: yellow;}
+body{background-color: azure;}
